@@ -4,7 +4,7 @@
 
 https://notepad-plus-plus.org/download/v7.5.1.html
 
-## windows  ResophNotes - portable
+## windows  ResophNotes - portable + synchro s [Simplenote](https://simplenote.com/)
 
 http://resoph.com/ResophNotes/Welcome.html
 
