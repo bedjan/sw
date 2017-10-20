@@ -1,5 +1,10 @@
 # Software
 
+## Windows volume ( ctrl UP/DOWN )
+
+http://www.softarium.com/soundvolumehotkeys/
+
+
 ## windows notepad++
 
 https://notepad-plus-plus.org/download/v7.5.1.html
